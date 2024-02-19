@@ -44,10 +44,7 @@ body{
     height: 0%;
     width: auto;
     left: 5px;
-    min-height: max-content;
-    max-height: max-content;
-    min-width: max-content;
-    max-width: max-content;
+}
 .heading{
     display: inline-block;
     height: 100px;
