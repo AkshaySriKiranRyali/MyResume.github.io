@@ -160,3 +160,18 @@ img{
     height: 3px;
     width: 1300px;
 }
+.resume {
+    text-align: center;
+    color: white;
+    font-size: 25px;
+    padding-top: 80px;
+    padding-bottom: 20px;
+}
+.resume a{
+    color: aliceblue;
+    text-decoration: underline;
+    cursor: pointer;
+}
+.resume :hover{
+    color: rgb(0, 225, 255);
+}
