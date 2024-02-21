@@ -116,14 +116,17 @@ img{
     display: block;
     margin-top: 50px;
 }
+
 .cid{
     font-size: 18px;
     padding-left: 50px;  
     color: white;
 }
+
 .certificationbox :hover{
     color: rgb(0, 110, 255);
-}        
+} 
+
 .contact{
     height: 50px;
 }
